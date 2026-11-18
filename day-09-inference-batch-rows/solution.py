@@ -1,0 +1,6 @@
+def parse_batch(lines: list[str]) -> tuple[list[str], list[dict], list[str]]:
+    ...
+
+
+def to_columns(header: list[str], records: list[dict]) -> dict[str, list]:
+    ...
