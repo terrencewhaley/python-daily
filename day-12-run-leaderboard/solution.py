@@ -1,0 +1,6 @@
+def format_duration(seconds: int) -> str:
+    ...
+
+
+def leaderboard(runs: list[dict], top: int = 3) -> list[str]:
+    ...
