@@ -1,0 +1,9 @@
+{"ts": "2026-11-26T09:00:01Z", "model": "churn-v3", "status": 200, "latency_ms": 41}
+{"ts": "2026-11-26T09:00:02Z", "model": "churn-v4", "status": 500, "latency_ms": 12, "error": "CUDA out of memory"}
+{"ts": "2026-11-26T09:00:02Z", "model": "churn-v3", "status": 200, "latency_ms": 39}
+
+{"ts": "2026-11-26T09:00:03Z", "model": "churn-v4", "status": 422, "latency_ms": 3, "error": "missing feature: tenure_months"}
+{"ts": "2026-11-26T09:00:04Z", "model": "churn-v4", "status": 500, "latency_ms": 11, "error": "CUDA out of memory"}
+{"ts": "2026-11-26T09:00:05Z", "model": "churn-v4", "status": 201, "latency_ms": 44}
+{"ts": "2026-11-26T09:00:06Z", "model": "fraud-v7", "status": 503, "latency_ms": 2, "error": "model not loaded"}
+{"ts": "2026-11-26T09:00:07Z", "model": "churn-v3", "status": 404, "latency_ms": 1}
