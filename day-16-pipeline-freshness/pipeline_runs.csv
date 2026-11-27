@@ -1,0 +1,11 @@
+job,status,started_at,finished_at
+feature-backfill,success,2026-11-27T01:00:00+00:00,2026-11-27T02:30:00+00:00
+feature-backfill,failed,2026-11-27T08:00:00+00:00,2026-11-27T08:05:00+00:00
+embeddings-refresh,success,2026-11-25T06:00:00+00:00,2026-11-25T09:00:00+00:00
+embeddings-refresh,failed,2026-11-26T06:00:00+00:00,2026-11-26T06:20:00+00:00
+label-sync,success,2026-11-26T09:00:00+00:00,2026-11-26T10:00:00+00:00
+label-sync,running,2026-11-27T11:00:00+00:00,
+label-sync,success,2026-11-25T09:00:00+00:00,2026-11-25T10:00:00+00:00
+drift-report,failed,2026-11-27T04:00:00+00:00,2026-11-27T05:00:00+00:00
+model-eval,success,2026-11-26T11:00:00+00:00,2026-11-26T12:00:00+00:00
+model-eval,success,2026-11-27T09:00:00+00:00,not-a-date
